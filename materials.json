@@ -187,6 +187,7 @@
             "data": [
               {
                 "name": "Hard Drives (HDD)",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRanjpo808NXW2yMomCT4oXnJ6SMbqzlcPg&usqp=CAU",
                 "data": {
                   "Gold": 4,
                   "Silver": 2
@@ -194,6 +195,7 @@
               },
               {
                 "name": "Solid State Drives (SSD)",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoyKx_Jh4MRpfVTCZkRrKaIT0nkhUWyh7uA&usqp=CAU",
                 "data": {
                   "Gold": 2,
                   "Silver": 1
@@ -201,6 +203,7 @@
               },
               {
                 "name": "Flash Drives (USB)",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhronz4QmLQlyaXH8-HxYbFNbpebf-yp7aTg&usqp=CAU",
                 "data": {
                   "Gold": 1,
                   "Silver": 0.5
@@ -213,6 +216,7 @@
             "data": [
               {
                 "name": "Keyboards",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIpWFOk1lzW5CxvJI0lbGfPn2ZhvT7oJt1A&usqp=CAU",
                 "data": {
                   "Gold": 0.5,
                   "Silver": 0.2
@@ -220,6 +224,7 @@
               },
               {
                 "name": "Mice",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBmPW-fzMQ9ZdlD_iVS0yQOKwgrbz5b6Ohg&usqp=CAU",
                 "data": {
                   "Gold": 0.3,
                   "Silver": 0.1
@@ -227,6 +232,7 @@
               },
               {
                 "name": "Monitors",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4-SyaC7h5vORIm9-vHv2E91tudMw2W-nhg&usqp=CAU",
                 "data": {
                   "Gold": 0.5,
                   "Silver": 0.3,
@@ -235,6 +241,7 @@
               },
               {
                 "name": "Printers",
+                "img":"base64,https://media.istockphoto.com/id/171574641/photo/inkjet-printer.jpg?s=612x612&w=0&k=20&c=yTeDKqcukYrCs-NKcZu05Ou0CwnK8CDnUL3bywR5xuk=",
                 "data": {
                   "Gold": 0.4,
                   "Silver": 0.2
@@ -247,6 +254,7 @@
             "data": [
               {
                 "name": "Televisions",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheTxsy8uQ3wjaqDLNjnTol3bF8Ascwp15Bg&usqp=CAU",
                 "data": {
                   "Gold": 0.5,
                   "Silver": 0.3
@@ -254,6 +262,7 @@
               },
               {
                 "name": "Cameras",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUgD1XM2-cZqcoqcvXFPknKRhfaP8cbiezQ&usqp=CAU",
                 "data": {
                   "Gold": 0.3,
                   "Silver": 0.2
@@ -261,6 +270,7 @@
               },
               {
                 "name": "Projectors",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR2R7IU1S8tdhXz0mpWJppNWSwTAJ1KhYjSg&usqp=CAU",
                 "data": {
                   "Gold": 0.4,
                   "Silver": 0.2
@@ -268,6 +278,7 @@
               },
               {
                 "name": "Speakers",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsU6R8VsnhqsGTSYN5VFK38gkYEWaCcHqhA&usqp=CAU",
                 "data": {
                   "Gold": 0.3,
                   "Silver": 0.1
@@ -280,6 +291,7 @@
             "data": [
               {
                 "name": "PlayStation",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhIyjE8quqnAx7Lkm6NpDIqx9lUA2zSHmEg&usqp=CAU",
                 "data": {
                   "Gold": 0.5,
                   "Silver": 0.2
@@ -287,6 +299,7 @@
               },
               {
                 "name": "Xbox",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5ImMBbayR8v4llSSAZ_alqbhDeQWp8CnoA&usqp=CAU",
                 "data": {
                   "Gold": 0.4,
                   "Silver": 0.15
@@ -294,6 +307,7 @@
               },
               {
                 "name": "Nintendo Switch",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3ZW7ABYWQHcsn-_jBaioAW9SEnyxmBiDhA&usqp=CAU",
                 "data": {
                   "Gold": 0.4,
                   "Silver": 0.15
@@ -306,6 +320,7 @@
             "data": [
               {
                 "name": "Smartwatches",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMK36oosvWw0Sj35AdGSRxsq_seBKv5p4L9tPgizNGhhfHXW_tusByoPpKFvAXDza7A2w&usqp=CAU",
                 "data": {
                   "Gold": 0.3,
                   "Silver": 0.1
@@ -313,6 +328,7 @@
               },
               {
                 "name": "Fitness Trackers",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTcJ-3RJaFL-zxM4PXBVBJEFlT8bSJ14L-g&usqp=CAU",
                 "data": {
                   "Gold": 0.2,
                   "Silver": 0.1
@@ -320,6 +336,7 @@
               },
               {
                 "name": "Hearables (Earbuds)",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhG8CEO5DkzeZwm5GjgXvP2GUtAjjrRIpfo3Lld7Bj9iBcoFeRQsuGk07a9PnJksYktmA&usqp=CAU",
                 "data": {
                   "Gold": 0.15,
                   "Silver": 0.05
