@@ -104,7 +104,7 @@
             "data": [
               {
                 "name": "Desktop Computers",
-                "img":"base64",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3xlI-mbT-0lnAK3fk_IVioyGEkKQ8AWGDw&usqp=CAU",
                 "data": {
                   "Gold": 10,
                   "Silver": 5
@@ -112,6 +112,7 @@
               },
               {
                 "name": "Laptop Computers",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqzADBDlW9odOoJHt3NcxDDCH_tHfWgUGNaA&usqp=CAU",
                 "data": {
                   "Gold": 5,
                   "Silver": 2
@@ -119,6 +120,7 @@
               },
               {
                 "name": "Servers",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_X2IzJp-yy1kfKJEXAwlbhKXhSGexAe5LrA&usqp=CAU",
                 "data": {
                   "Gold": 8,
                   "Silver": 4,
@@ -128,6 +130,7 @@
               },
               {
                 "name": "Workstations",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHi_m1MuJ3QkT7o2tUNW5fp_ARgMtpfxcb3g&usqp=CAU",
                 "data": {
                   "Gold": 5,
                   "Silver": 3,
@@ -142,6 +145,7 @@
             "data": [
               {
                 "name": "Smartphones",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H-8IFAbdt_TgpdE110CK6RDmGbGeTY2Tog&usqp=CAU",
                 "data": {
                   "Gold": 6,
                   "Silver": 2
@@ -149,6 +153,7 @@
               },
               {
                 "name": "Tablets",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGKi6PQg7tBxLqiXOarzMqF5LHrWbC9oGTZem2aC2ZSrUtLcMmKKBwCvC8pe0xVYcne0&usqp=CAU",
                 "data": {
                   "Gold": 3,
                   "Silver": 1
@@ -161,6 +166,7 @@
             "data": [
               {
                 "name": "Routers",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rXSYzBk_qrIf2Bu3RaRUaebi4N95IQk77g&usqp=CAU",
                 "data": {
                   "Gold": 4,
                   "Silver": 2
@@ -168,25 +174,7 @@
               },
               {
                 "name": "Switches",
-                "data": {
-                  "Gold": 3,
-                  "Silver": 1
-                }
-              }
-            ]
-          },
-          {
-            "name": "Communication Devices",
-            "data": [
-              {
-                "name": "Smartphones",
-                "data": {
-                  "Gold": 6,
-                  "Silver": 3
-                }
-              },
-              {
-                "name": "Tablets",
+                "img":"base64,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFl2b7yMiPA3MNueqLu2s-iqLQG2CZZMU9Tg&usqp=CAU",
                 "data": {
                   "Gold": 3,
                   "Silver": 1
